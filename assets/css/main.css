@@ -1,0 +1,48 @@
+/**
+ * Header
+ */
+#main-default-header {
+    padding: 2rem 0;
+    background: url('../images/bg-9.png') center center fixed;
+    color: white;
+}
+
+#main-breadcrumb li.breadcrumb-item,
+#main-breadcrumb li.breadcrumb-item a {color: white;}
+
+#main-breadcrumb {
+  padding: .75rem 0;
+}
+
+aside.meta-post {
+    border-top: 1px solid #d8d8d8;
+    padding: 1rem 0;
+    border-bottom: 1px solid #d8d8d8;
+    margin-bottom: 20px;
+}
+
+aside.meta-post p {margin: 0}
+
+/**
+ * Posts
+ */
+#main-article {
+    border-top: 1px solid #d8d8d8;
+    padding: 1rem 0;
+    border-bottom: 1px solid #d8d8d8;
+    margin-bottom: 20px;
+}
+
+/**
+* footer
+*/
+#footer-global {
+  background: #b3b3b3;
+  color: #3a3a3a;
+  padding: 3rem 0;
+}
+
+#footer-global a {
+  font-weight: bold;
+  color: #3a3a3a;
+}

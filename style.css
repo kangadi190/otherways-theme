@@ -1,0 +1,21 @@
+/**
+ * Theme Name: OtherWays
+ * Theme URI: https://www.adiboocreative.xyz/repository/wp/otherways
+ * Text Domain: otherways
+ * Author: Adiboo Creative (Adiboo Creative Karya Mandiri)
+ * Author URI: https://www.adiboocreative.xyz
+ * Description: Tema WordPress yang fleksibel untuk segala jenis website seperti blog, landing page, dan yang lainnya. Dilengkapi dengan kustomizer anda tak perlu lagi mengutak-atik skrip pada tema ini.
+ * Tags: custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, sticky-post, translation-ready
+ * License: GNU General Public License v2 or later
+ * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * Version: 1.0.0
+ */
+
+.wp-caption {}
+.wp-caption-text {}
+.screen-reader-text {}
+.gallery-caption {}
+.bypostauthor {}
+.alignright {}
+.alignleft {}
+.aligncenter {}

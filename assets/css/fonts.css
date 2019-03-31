@@ -1,0 +1,48 @@
+/**
+ * Otherways Project Themes
+ * By Adiboo Creative
+ * 
+ * @since 1.0.0
+ */
+
+@font-face {
+  font-family: 'Nunito Light';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Light Italic';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-LightItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Regular';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Bold';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Bold Italic';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Extra Bold';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: 'Nunito Extra Bold Italic';
+  font-style: normal;
+  src: url('../fonts/Nunito/Nunito-ExtraBoldItalic.ttf');
+}

@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-23 22:32+0000\n"
+"PO-Revision-Date: 2019-03-23 22:39+0000\n"
+"Last-Translator: adiboo190 <admin@adiboocreative.xyz>\n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: 404.php:16
+msgid ""
+"Halaman saat ini yang anda minta sekarang belum tersedia. Mungkin telah "
+"dihapus oleh administrator. Mohon cek kembali karakter pengejaan url anda."
+msgstr ""
+"Your request page now isn't found. Maybe deleted by admin. Re-check the your "
+"url spelling character, Please."
+
+#: comments.php:40
+msgid "Nama Anda"
+msgstr "Your Name"
+
+#: comments.php:46
+msgid "Surat Elektronik"
+msgstr "E-Mail"
+
+#: comments.php:52
+msgid "Situs Web"
+msgstr "Website"
+
+#: comments.php:64
+msgid "Beri Tanggapan"
+msgstr "Give Comment"
+
+#: comments.php:65
+#, php-format
+msgid "Beri tanggapan ke %s"
+msgstr "Give comment to %s"
+
+#: comments.php:66
+msgid "Batal menanggapi"
+msgstr "Cancel comment"
+
+#: comments.php:67
+msgid "Kirim Komentar"
+msgstr "Send comment"
+
+#: comments.php:72
+msgid "Komentar"
+msgstr "Comments"
+
+#: comments.php:73
+msgid "Kirim Komentar Anda Di Kotak Ini"
+msgstr "Send your comment in this area."
+
+#: comments.php:78
+#, php-format
+msgid "Anda harus <a href=\"%s\">masuk</a> sebelum memberikan komentar."
+msgstr "You must <a href=\"%s\">login</a> before give comment."
+
+#: comments.php:84
+#, php-format
+msgid ""
+"Masuk sebagai <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Keluar?</a>"
+msgstr ""
+"Login as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this "
+"account\">Logout?</a>"
+
+#: comments.php:91
+msgid "Email anda tidak akan kami publikasikan."
+msgstr "Your email isn't publicize."
+
+#: comments.php:96
+#, php-format
+msgid ""
+"Anda dapat menggunakan <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+"atribut dan tag: %s"
+msgstr ""
+"You can use <abbr title=\"HyperText Markup Language\">HTML</abbr> attributes "
+"and tags: %s"
+
+#: header.php:12
+msgid "Lanjut ke konten"
+msgstr "Next to the content"
+
+#: sidebar.php:23
+msgid "Contoh Widget Tag Cloud"
+msgstr "Widget Tag Cloud Examples"
+
+#: inc/addons-paginations.php:25 inc/addons-paginations.php:26
+msgid "Navigasi Halaman"
+msgstr "Page Navs"
+
+#: inc/addons-paginations.php:29 inc/addons-paginations.php:50
+msgid "Halaman"
+msgstr "Page"
+
+#: inc/addons-paginations.php:29 inc/addons-paginations.php:50
+msgid "Dari"
+msgstr "Form"
+
+#: inc/addons-paginations.php:32
+msgid "Halaman Pertama"
+msgstr "First Page"
+
+#: inc/addons-paginations.php:35
+msgid "Halaman Sebelumnya"
+msgstr "Before Page"
+
+#: inc/addons-paginations.php:39
+msgid "Halaman Saat Ini"
+msgstr "Page Now"
+
+#: inc/addons-paginations.php:43
+msgid "Halaman Selanjutnya"
+msgstr "Next Page"
+
+#: inc/addons-paginations.php:46
+msgid "Halaman Terakhir"
+msgstr "Last Page"
+
+#: inc/others.php:16
+msgid "Tidak diatur"
+msgstr "Not Set"
+
+#: inc/widget.php:13
+msgid "Bilah Sisi Utama"
+msgstr "Sidebar Primary"
+
+#: inc/widget.php:15
+msgid "Tambahkan sebuah widget dengan menarik widget yag tersedia ke area ini."
+msgstr "Add some widget with dragging the widget in this area."
+
+#: post/contents-post.php:24
+msgid "Artikel Sebelumnnya"
+msgstr "Before Post"
+
+#: post/contents-post.php:27
+msgid "Artikel Selanjutnya"
+msgstr "Next Post"
+
+#. Name of the theme
+msgid "OtherWays"
+msgstr "OtherWays"
+
+#. Description of the theme
+msgid ""
+"Tema WordPress yang fleksibel untuk segala jenis website seperti blog, "
+"landing page, dan yang lainnya. Dilengkapi dengan kustomizer anda tak perlu "
+"lagi mengutak-atik skrip pada tema ini."
+msgstr ""
+"The flexible WordPress theme for any website are blog, landing page and any "
+"type. Complited by customizer and you don't to editing the script in this "
+"theme."
+
+#. URI of the theme
+msgid "https://www.adiboocreative.xyz/repository/wp/otherways"
+msgstr "https://www.adiboocreative.xyz/repository/wp/otherways"
+
+#. Author of the theme
+msgid "Adiboo Creative (Adiboo Creative Karya Mandiri)"
+msgstr "Adiboo Creative (Adiboo Creative Karya Mandiri)"
+
+#. Author URI of the theme
+msgid "https://www.adiboocreative.xyz"
+msgstr "https://www.adiboocreative.xyz"

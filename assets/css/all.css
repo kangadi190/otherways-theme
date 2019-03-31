@@ -1,0 +1,150 @@
+/**
+ * Otherways Project Themes
+ * By Adiboo Creative
+ *
+ * @since 1.0.0
+ */
+
+* {font-family: 'Nunito', Arial, Helvetica, sans-serif}
+body {color: rgb(141, 141, 141);}
+h1, h2, h3, h4, h5, h6 {color: black;}
+
+/* #Buttons# */
+.btn {transition: .3s all ease-in-out;}
+
+.btn-rounded {
+    border-radius: 50px;
+}
+
+.btn-bold,
+.btn-bold .button-text {font-weight: bold;}
+
+/* Shadow Buttons */
+.btn-hover-shadow-xs:hover {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.26);
+    transform: translateY(-0.3rem);
+}
+
+.btn-hover-shadow-sm:hover {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.26);
+    transform: translateY(-0.4rem);
+}
+
+.btn-hover-shadow-md:hover {
+    box-shadow: 5px 5px 13px rgba(0, 0, 0, 0.26);
+    transform: translateY(-0.4rem);
+}
+
+.btn-hover-shadow-lg:hover {
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.26);
+    transform: translateY(-0.4rem);
+}
+
+.btn-hover-shadow-xl:hover {
+    box-shadow: 9px 9px 18px rgba(0, 0, 0, 0.26);
+    transform: translateY(-0.4rem);
+}
+
+/* Button Sizing */
+.btn-xl {
+    font-weight: 400;
+    font-size: 20px;
+    padding: 25px 50px;
+}
+
+.btn-lg {
+    font-weight: 400;
+    font-size: 18px;
+    padding: 20px 40px;
+}
+
+.btn-md {
+    font-weight: 400;
+    font-size: 16px;
+    padding: 15px 30px;
+}
+
+.btn-sm {
+    font-weight: 400;
+    padding: 12px 24px;
+    font-size: 14px;
+}
+
+.btn-xs {
+    font-weight: 400;
+    font-size: 13px;
+    padding: 10px 20px;
+}
+
+/* Button Color */
+.btn-primary {
+    background: rgb(33, 93, 206);
+    color: white;
+    border-color: rgb(33, 93, 206);
+}
+
+.btn-primary:hover {
+    background: transparent;
+    color: rgb(33, 93, 206);
+    border-color: rgb(33, 93, 206);
+}
+
+.btn-outline-primary {
+    background: transparent;
+    color: rgb(33, 93, 206);
+    border-color: rgb(33, 93, 206);
+}
+
+.btn-outine-primary:hover {
+    background: rgb(33, 93, 206);
+    color: white;
+    border-color: rgb(33, 93, 206);
+}
+
+.btn-link {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
+}
+
+.btn-link:hover {
+    background: transparent;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+
+.btn-outline-link {
+    background: transparent;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+
+.btn-outine-link:hover {
+    background: rgb(255, 255, 255);
+    color: black;
+    border-color: rgb(255, 255, 255);
+}
+
+.btn-danger {
+    background: #e83838;
+    color: rgb(0, 0, 0);
+    border-color: #e83838;
+}
+
+.btn-danger:hover {
+    background: transparent;
+    color: #e83838;
+    border-color: #e83838;
+}
+
+.btn-outline-danger {
+    background: transparent;
+    color: #e83838;
+    border-color: #e83838;
+}
+
+.btn-outine-danger:hover {
+    background: #e83838;
+    color: black;
+    border-color: #e83838;
+}
